@@ -1,0 +1,32 @@
+[
+  {
+    "avatar": "https://www.mypetsname.com/wp-content/uploads/2019/06/Cute-Corgi-Dog.jpg",
+    "name": "Mango",
+    "status": true,
+    "id": 1812
+  },
+  {
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn-5SmK0LtEMjV1DGhryfNbOQ-TG6ZnRuI5w&usqp=CAU",
+    "name": "Kiwi",
+    "status": false,
+    "id": 1137
+  },
+  {
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRArvLjZeNw0m0oaqVcr8KOOwiqqE7m-C6QFQ&usqp=CAU",
+    "name": "Ajax",
+    "status": true,
+    "id": 1213
+  },
+  {
+    "avatar": "https://cutewallpaper.org/21/funny-pictures-of-corgis/Funny-And-Goofy-Corgi-Dogs-Hilarious-Corgi-Dogs-and-Puppies-Compilation.jpg",
+    "name": "Jay",
+    "status": true,
+    "id": 1714
+  },
+  {
+    "avatar": "https://1.bp.blogspot.com/-T36z6Ewb5Cs/XxQHMLvoh5I/AAAAAAAAceQ/grIB_cKXLZMGk3Iux1M0O55655_Xl2SiQCLcBGAsYHQ/s1600/Meet%2BGen%252C%2BA%2BCute%2BJapanese%2BCorgi%2BPictures%2BWith%2BFunny%2BFacial%2BExpressions%2B%25281%2529.jpg",
+    "name": "Poly",
+    "status": false,
+    "id": 1284
+  }
+]
